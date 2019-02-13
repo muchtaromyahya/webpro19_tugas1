@@ -1,0 +1,39 @@
+
+.menu
+{
+	background-color: blue;
+	color: white;
+	background-repeat: no-repeat, repeat;
+	margin-top: 20px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	margin-bottom: 20px;
+	margin-right: 400px;
+
+}
+.button{
+	background-color: blue;
+	color: white;
+	border:none;
+	cursor: pointer;
+	padding-left: 40px;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+}
+
+
+.logo{
+	margin-top: 20px;
+	margin-bottom: 20px;
+
+}
+.fitur {
+	margin-top: 200px;
+	margin-right: 850px;
+	margin-top: 10px;
+}
+.buttonkotak{
+	cursor: pointer;
+	margin:0;
+}
